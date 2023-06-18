@@ -1,0 +1,17 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_C1C897EA_CE89_3DA5_41D7_597F8447A346.label = 1
+panorama_C3D3FA5C_CE89_369D_41D8_001C8C3AE747.label = 2
+panorama_C3D52CCB_CE89_33FB_41E0_17F3B435C35D.label = 3
+panorama_C3D5CF1C_CE89_4E9D_41AD_0323B07B89A7.label = front
+panorama_C3D4917B_CE89_529B_41C2_6D74885EE932.label = mid
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
