@@ -1,17 +1,56 @@
 #: locale=en
 
+## Action
+
+### URL
+LinkBehaviour_7BCB0E2D_1CAA_6BF2_41A4_42CDEFFD55A4.source = http://dev.galeri-portal.oviatech.id/#/floorplan/room
+LinkBehaviour_7AB359DB_1CAA_6856_41B3_B0FF6F46ED17.source = http://dev.galeri-portal.oviatech.id/#/floorplan/room
+LinkBehaviour_74B565F7_1CAA_385E_41B3_7D03618B1E89.source = http://dev.galeri-portal.oviatech.id/#/floorplan/room
+
 ## Media
 
 ### Title
-panorama_C1C897EA_CE89_3DA5_41D7_597F8447A346.label = 1
-panorama_C3D3FA5C_CE89_369D_41D8_001C8C3AE747.label = 2
-panorama_C3D52CCB_CE89_33FB_41E0_17F3B435C35D.label = 3
-panorama_C3D5CF1C_CE89_4E9D_41AD_0323B07B89A7.label = front
-panorama_C3D4917B_CE89_529B_41C2_6D74885EE932.label = mid
+panorama_10D61794_1CA7_5C2A_41A9_D65320950788.label = back1
+panorama_16610A25_1CA7_546B_41A3_F46FE8BFA75F.label = back2
+panorama_1664BCE0_1CA7_4DE9_41A2_697F74A68F39.label = back3
+panorama_16648F2D_1CA7_4C7B_41BC_017E22156D8C.label = back4
+panorama_1664417F_1CA7_34D7_41BB_98A8E3AC8266.label = front1
+panorama_1665A495_1CA7_3C2A_4182_1FE662BAFB96.label = left1
+panorama_166446F7_1CA7_3DD7_41B6_37F10AD8E340.label = left2
+panorama_1665F945_1CA7_342A_41B0_CFD9630BEA84.label = left3
+panorama_16646B97_1CA7_3457_41B3_D67C3CCBABD6.label = left4
+panorama_1665BDE4_1CA7_CFE9_41B6_318F955A7C20.label = mid1
+panorama_166405A1_1CA7_FC6B_4166_BFA95853C55D.label = mid10
+panorama_166457F9_1CA7_FBDB_41B2_A8FC813B9363.label = mid11
+panorama_16641AB5_1CA7_F46B_41AD_341EC5F55210.label = mid12
+panorama_16640CF1_1CA7_CDEA_4193_E71A37F4270A.label = mid13
+panorama_1664DFCF_1CA7_CC37_41A6_979CC38841BB.label = mid14
+panorama_16640243_1CA7_D42F_418C_FD6C9DC02324.label = mid15
+panorama_1664D48A_1CA7_DC39_418A_89134F7B9EA4.label = mid16
+panorama_166416E8_1CA7_DDF9_41BA_11E837BF99D3.label = mid17
+panorama_1664D930_1CA7_D46A_419B_5637684B0024.label = mid18
+panorama_16640BF6_1CA7_CBE9_41B1_AA3C865F8899.label = mid19
+panorama_1664408F_1CA7_D437_41BB_F24BE7A5CC31.label = mid2
+panorama_1664BE43_1CA7_CC2F_41B1_F17E49CFB018.label = mid20
+panorama_166430FF_1CA7_35D7_4197_51C324B94F8E.label = mid21
+panorama_1664539A_1CA7_345E_41B0_362450967786.label = mid22
+panorama_166445F2_1CA7_3FE9_41A4_9E228890A58D.label = mid23
+panorama_166398AD_1CA7_347A_41A4_FA1E2D51C35F.label = mid24
+panorama_166582D7_1CA7_D5D6_41B8_83F16FDBB1BA.label = mid3
+panorama_1664158E_1CA7_DC39_41AB_B1E0C0A73349.label = mid4
+panorama_166477E5_1CA7_DBEB_41BB_ADF7387028A0.label = mid5
+panorama_16641AA2_1CA7_D469_41A4_3CED691DCE27.label = mid6
+panorama_16646D6D_1CA7_CCFB_41B2_A2A24C82071C.label = mid7
+panorama_16643093_1CA7_F42F_41B2_7D3997056924.label = mid8
+panorama_166472E5_1CA7_F5EB_419C_316E4F0F1450.label = mid9
+panorama_16647B63_1CA7_34EE_41B7_08C0A31A48E2.label = right-new1
+panorama_16639DB0_1CA7_4C6A_41B4_09D36BDB7C88.label = right-new2
+panorama_16639009_1CA7_543B_41A5_C536DBDF7130.label = right-new3
+panorama_1663D25C_1CA7_54D9_41A4_25866EE53E3E.label = right-new4
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 1
+tour.name = Untitled 2
