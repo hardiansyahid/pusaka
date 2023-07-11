@@ -3,9 +3,9 @@
 ## Action
 
 ### URL
-LinkBehaviour_7BCB0E2D_1CAA_6BF2_41A4_42CDEFFD55A4.source = http://dev.galeri-portal.oviatech.id/#/floorplan/room
-LinkBehaviour_7AB359DB_1CAA_6856_41B3_B0FF6F46ED17.source = http://dev.galeri-portal.oviatech.id/#/floorplan/room
-LinkBehaviour_74B565F7_1CAA_385E_41B3_7D03618B1E89.source = http://dev.galeri-portal.oviatech.id/#/floorplan/room
+LinkBehaviour_7BCB0E2D_1CAA_6BF2_41A4_42CDEFFD55A4.source = http://beta.galeri-portal.oviatech.id/#/floorplan/room
+LinkBehaviour_7AB359DB_1CAA_6856_41B3_B0FF6F46ED17.source = http://beta.galeri-portal.oviatech.id/#/floorplan/room
+LinkBehaviour_74B565F7_1CAA_385E_41B3_7D03618B1E89.source = http://beta.galeri-portal.oviatech.id/#/floorplan/room
 
 ## Media
 
@@ -14,6 +14,7 @@ panorama_30944206_3D5E_34E6_41CB_3FB2D1254678.label = 1
 panorama_30F1A490_3D5E_3DFA_41B9_447A18CD5C65.label = 2
 panorama_30F1474B_3D5E_3B6E_41C8_180A3BEC1F5D.label = 3
 panorama_30F1A9B3_3D5E_373F_41B5_A93C758708B0.label = 4
+album_567452F5_4267_1427_41CD_F0244D4C46CC.label = Photo Album shop3
 panorama_10D61794_1CA7_5C2A_41A9_D65320950788.label = back1
 panorama_16610A25_1CA7_546B_41A3_F46FE8BFA75F.label = back2
 panorama_1664BCE0_1CA7_4DE9_41A2_697F74A68F39.label = back3
@@ -24,6 +25,8 @@ panorama_166446F7_1CA7_3DD7_41B6_37F10AD8E340.label = left2
 panorama_1665F945_1CA7_342A_41B0_CFD9630BEA84.label = left3
 panorama_16646B97_1CA7_3457_41B3_D67C3CCBABD6.label = left4
 model_33A49394_3D1B_1C52_41CB_A8D92E21CC21.label = meteor
+video_50776360_426F_345E_41C5_98FED549625A.label = meteorid
+video_5062E990_426F_34FE_41C4_B79F332E7390.label = meteorid2
 panorama_1665BDE4_1CA7_CFE9_41B6_318F955A7C20.label = mid1
 panorama_166405A1_1CA7_FC6B_4166_BFA95853C55D.label = mid10
 panorama_166457F9_1CA7_FBDB_41B2_A8FC813B9363.label = mid11
@@ -52,11 +55,23 @@ panorama_16647B63_1CA7_34EE_41B7_08C0A31A48E2.label = right-new1
 panorama_16639DB0_1CA7_4C6A_41B4_09D36BDB7C88.label = right-new2
 panorama_16639009_1CA7_543B_41A5_C536DBDF7130.label = right-new3
 panorama_1663D25C_1CA7_54D9_41A4_25866EE53E3E.label = right-new4
+album_567452F5_4267_1427_41CD_F0244D4C46CC_1.label = shop1
+album_567452F5_4267_1427_41CD_F0244D4C46CC_2.label = shop2
+album_567452F5_4267_1427_41CD_F0244D4C46CC_0.label = shop3
+
+### Video
+videolevel_559A6F4A_42AF_6C62_41CE_D2B62B1CA3D7.url = media/video_5062E990_426F_34FE_41C4_B79F332E7390_en.mp4
+videolevel_559A6F4A_42AF_6C62_41CE_D2B62B1CA3D7.posterURL = media/video_5062E990_426F_34FE_41C4_B79F332E7390_poster_en.jpg
+videolevel_559DCF6F_42AF_6C22_41C4_1EFE0563AA82.url = media/video_50776360_426F_345E_41C5_98FED549625A_en.mp4
+videolevel_559DCF6F_42AF_6C22_41C4_1EFE0563AA82.posterURL = media/video_50776360_426F_345E_41C5_98FED549625A_poster_en.jpg
+
+### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_28CA339F_3D6D_FBE6_41C4_2EB5AF7EEF59.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;">What is Lorem Ipsum?</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>Lihat Selengkapnya</U></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_57C74FF8_42A3_2C2E_41BF_6B1F8CA36A7A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Poppins';">What is Lorem Ipsum?</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat';">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Poppins';"><U>Lihat Selengkapnya</U></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_28CA339F_3D6D_FBE6_41C4_2EB5AF7EEF59.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Poppins';">What is Lorem Ipsum?</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat';">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Poppins';"><U>Lihat Selengkapnya</U></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Tour
 
