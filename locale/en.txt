@@ -3,79 +3,59 @@
 ## Action
 
 ### URL
-LinkBehaviour_7BCB0E2D_1CAA_6BF2_41A4_42CDEFFD55A4.source = http://beta.galeri-portal.oviatech.id/#/floorplan/room
-LinkBehaviour_7AB359DB_1CAA_6856_41B3_B0FF6F46ED17.source = http://beta.galeri-portal.oviatech.id/#/floorplan/room
-LinkBehaviour_74B565F7_1CAA_385E_41B3_7D03618B1E89.source = http://beta.galeri-portal.oviatech.id/#/floorplan/room
+PopupWebFrameBehaviour_51F3A9B7_51DE_6946_41CC_71F4FA6FBDB5.url = http://dev.galeri-portal.oviatech.id/#/floorplan/detail/39
+PopupWebFrameBehaviour_51F37F0C_51DE_E94A_41A9_E25A97351A24.url = http://dev.galeri-portal.oviatech.id/#/floorplan/detail/39
+PopupWebFrameBehaviour_51F15D1B_51DA_294E_41C8_C4A6FC3A6C12.url = http://dev.galeri-portal.oviatech.id/#/floorplan/detail/39
+PopupWebFrameBehaviour_51F3C57A_51DE_19CF_41CB_D728630EA17D.url = http://dev.galeri-portal.oviatech.id/#/floorplan/detail/39
 
 ## Media
 
 ### Title
-panorama_30944206_3D5E_34E6_41CB_3FB2D1254678.label = 1
-panorama_30F1A490_3D5E_3DFA_41B9_447A18CD5C65.label = 2
-panorama_30F1474B_3D5E_3B6E_41C8_180A3BEC1F5D.label = 3
-panorama_30F1A9B3_3D5E_373F_41B5_A93C758708B0.label = 4
-album_567452F5_4267_1427_41CD_F0244D4C46CC.label = Photo Album shop3
-panorama_10D61794_1CA7_5C2A_41A9_D65320950788.label = back1
-panorama_16610A25_1CA7_546B_41A3_F46FE8BFA75F.label = back2
-panorama_1664BCE0_1CA7_4DE9_41A2_697F74A68F39.label = back3
-panorama_16648F2D_1CA7_4C7B_41BC_017E22156D8C.label = back4
-panorama_1664417F_1CA7_34D7_41BB_98A8E3AC8266.label = front1
-panorama_1665A495_1CA7_3C2A_4182_1FE662BAFB96.label = left1
-panorama_166446F7_1CA7_3DD7_41B6_37F10AD8E340.label = left2
-panorama_1665F945_1CA7_342A_41B0_CFD9630BEA84.label = left3
-panorama_16646B97_1CA7_3457_41B3_D67C3CCBABD6.label = left4
-model_33A49394_3D1B_1C52_41CB_A8D92E21CC21.label = meteor
-video_50776360_426F_345E_41C5_98FED549625A.label = meteorid
-video_5062E990_426F_34FE_41C4_B79F332E7390.label = meteorid2
-panorama_1665BDE4_1CA7_CFE9_41B6_318F955A7C20.label = mid1
-panorama_166405A1_1CA7_FC6B_4166_BFA95853C55D.label = mid10
-panorama_166457F9_1CA7_FBDB_41B2_A8FC813B9363.label = mid11
-panorama_16641AB5_1CA7_F46B_41AD_341EC5F55210.label = mid12
-panorama_16640CF1_1CA7_CDEA_4193_E71A37F4270A.label = mid13
-panorama_1664DFCF_1CA7_CC37_41A6_979CC38841BB.label = mid14
-panorama_16640243_1CA7_D42F_418C_FD6C9DC02324.label = mid15
-panorama_1664D48A_1CA7_DC39_418A_89134F7B9EA4.label = mid16
-panorama_166416E8_1CA7_DDF9_41BA_11E837BF99D3.label = mid17
-panorama_1664D930_1CA7_D46A_419B_5637684B0024.label = mid18
-panorama_16640BF6_1CA7_CBE9_41B1_AA3C865F8899.label = mid19
-panorama_1664408F_1CA7_D437_41BB_F24BE7A5CC31.label = mid2
-panorama_1664BE43_1CA7_CC2F_41B1_F17E49CFB018.label = mid20
-panorama_166430FF_1CA7_35D7_4197_51C324B94F8E.label = mid21
-panorama_1664539A_1CA7_345E_41B0_362450967786.label = mid22
-panorama_166445F2_1CA7_3FE9_41A4_9E228890A58D.label = mid23
-panorama_166398AD_1CA7_347A_41A4_FA1E2D51C35F.label = mid24
-panorama_166582D7_1CA7_D5D6_41B8_83F16FDBB1BA.label = mid3
-panorama_1664158E_1CA7_DC39_41AB_B1E0C0A73349.label = mid4
-panorama_166477E5_1CA7_DBEB_41BB_ADF7387028A0.label = mid5
-panorama_16641AA2_1CA7_D469_41A4_3CED691DCE27.label = mid6
-panorama_16646D6D_1CA7_CCFB_41B2_A2A24C82071C.label = mid7
-panorama_16643093_1CA7_F42F_41B2_7D3997056924.label = mid8
-panorama_166472E5_1CA7_F5EB_419C_316E4F0F1450.label = mid9
-panorama_16647B63_1CA7_34EE_41B7_08C0A31A48E2.label = right-new1
-panorama_16639DB0_1CA7_4C6A_41B4_09D36BDB7C88.label = right-new2
-panorama_16639009_1CA7_543B_41A5_C536DBDF7130.label = right-new3
-panorama_1663D25C_1CA7_54D9_41A4_25866EE53E3E.label = right-new4
-album_567452F5_4267_1427_41CD_F0244D4C46CC_1.label = shop1
-album_567452F5_4267_1427_41CD_F0244D4C46CC_2.label = shop2
-album_567452F5_4267_1427_41CD_F0244D4C46CC_0.label = shop3
+panorama_5B7C148F_4DEB_E4DE_41D3_5CE96FBC8D55.label = bebatuan1
+panorama_5E1D0751_4DEB_E442_41CB_D12EE263BF4A.label = bebatuan2
+panorama_5E14DA39_4DEB_EFC2_41CB_AF77434A5C69.label = bebatuan3
+panorama_437E64CA_4D1F_6035_41D1_E581B94FD3BC.label = entry1
+panorama_652DF1BE_51DA_1946_41C6_6609467E5388.label = entry2
+panorama_618325D6_51DA_18C7_41CF_D0F38AC0C98E.label = entry3
+panorama_6193386E_51DA_17C7_4195_6A7D11C0B329.label = entry4
+panorama_5E147CB8_4DEB_E4C2_41D0_FF7162A23DCC.label = fosil1
+panorama_5E133FD9_4DEB_E442_41C3_C91CFC3E8CDD.label = fosil2
+panorama_5E13926E_4DEB_9C5E_41C3_525496A3497E.label = fosil3
+panorama_415C954A_4D1C_A035_41D0_DC57C0353632.label = front
+model_51FC7AB0_51CA_EB5A_41BA_F787290BFE9F.label = gold_meteor
+model_51FF8B60_51C6_29FA_41C1_516DBE5C658E.label = gold_meteor2
+video_52027C0E_523E_EF46_41CC_26C652E76F3A.label = meteorid2
+panorama_5EE8AA21_4DED_6FC2_41C6_1511440985C1.label = mid1
+panorama_5F157634_4DEC_A7C2_41CF_45C06D0BBE45.label = mid11
+panorama_5F175EE6_4DED_644E_41C0_691E5A4CEE5D.label = mid2
+panorama_5FEA314E_4DEC_9C5E_41D2_157BA4AB1336.label = mid3
+panorama_5FEA03B0_4DEC_9CC3_41C4_41F0DD8D37EC.label = mid4
+panorama_5FEA5694_4DEC_A4C2_41BC_70229DDA838B.label = mid5
+panorama_5FEAAB82_4DEC_ACC6_41B0_9D4C39CD20CE.label = mid7
+panorama_5F152048_4DEC_BC42_417D_903AA07E720B.label = mid9
+panorama_5E1304F7_4DEB_A44E_41CB_E7CA8963612B.label = senjata1
+panorama_5E134781_4DEB_A4C2_41C4_B7C457AD8290.label = senjata2
+panorama_5E137A0A_4DEB_AFC7_41C9_20EAE0C880C2.label = senjata3
+model_51FDF840_51C5_F73B_41C9_E810C21936AC.label = silver_meteor
 
 ### Video
-videolevel_559A6F4A_42AF_6C62_41CE_D2B62B1CA3D7.url = media/video_5062E990_426F_34FE_41C4_B79F332E7390_en.mp4
-videolevel_559A6F4A_42AF_6C62_41CE_D2B62B1CA3D7.posterURL = media/video_5062E990_426F_34FE_41C4_B79F332E7390_poster_en.jpg
-videolevel_559DCF6F_42AF_6C22_41C4_1EFE0563AA82.url = media/video_50776360_426F_345E_41C5_98FED549625A_en.mp4
-videolevel_559DCF6F_42AF_6C22_41C4_1EFE0563AA82.posterURL = media/video_50776360_426F_345E_41C5_98FED549625A_poster_en.jpg
+videolevel_5203E8FC_523D_E8CA_41C5_956018FD3056.url = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_en.mp4
+videolevel_5203E8FC_523D_E8CA_41C5_956018FD3056.posterURL = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_poster_en.jpg
 
 ### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_57C74FF8_42A3_2C2E_41BF_6B1F8CA36A7A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Poppins';">What is Lorem Ipsum?</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat';">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Poppins';"><U>Lihat Selengkapnya</U></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_28CA339F_3D6D_FBE6_41C4_2EB5AF7EEF59.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Poppins';">What is Lorem Ipsum?</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-family:'Montserrat';">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-family:'Poppins';"><U>Lihat Selengkapnya</U></SPAN></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_51FD6566_51CA_19C6_41A0_87F89942B046.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Phonolitic Scoria</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Kata scoria berasal dari bahasa Yunani "skoria" yang berarti karat; Scoria adalah batu vulkanik berwarna gelap yang sangat berbuih dan mungkin mengandung kristal (fenokristal) atau tidak. Biasanya berwarna gelap (umumnya cokelat tua, hitam, atau merah keunguan), dan memiliki komposisi batuan basal atau andesit. Scoria relatif ringan karena adanya vesikel berbentuk elipsoidal yang sangat banyak, tetapi berbeda dengan batu apung, semua scoria memiliki densitas yang lebih besar dari 1 dan tenggelam di air.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lubang-lubang atau vesikel terbentuk ketika gas yang terlarut dalam magma keluar dari larutan saat terjadi erupsi, menciptakan gelembung dalam batuan cair, beberapa di antaranya membeku saat batuan mendingin dan mengeras. Scoria dapat terbentuk sebagai bagian dari aliran lava, biasanya dekat permukaannya, atau sebagai fragmen ejekta (lapili, blok, dan bom), misalnya dalam erupsi Strombolian yang membentuk kerucut scoria dengan sisi curam. Sebagian besar scoria terdiri dari fragmen kaca dan mungkin mengandung fenokristal.</SPAN></DIV></BODY></HTML></div>
+htmlText_51FBE142_51CE_193E_41CD_F5EFA0C9141E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">LUNA IN BRONZE</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">LUNA, sebuah karya seni yang dibuat oleh seniman Prancis Erol, secara eksklusif untuk Cassiom dan Aldin Art Space, menyoroti tekstur dan permukaan selenit menggunakan data dari Lunar Reconnaissance Orbiter. Reproduksi sempurna dari Bulan - dengan semua kawah, retakan, gunung, dan lautannya. Definisi teknis dari permukaan bola tersebut dihitung secara numerik, dengan data yang disediakan oleh NASA. Resolusi file ini adalah 50 juta titik, satu titik untuk setiap kilometer, dan bentuk-bentuk daratan diperbesar tiga kali lipat.</SPAN></DIV></BODY></HTML></div>
+htmlText_51F512D9_51DA_38CA_41C9_4E2ACCD0562D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_51F6F2C4_51C7_FB3A_4182_C21DDB889158.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></div>
+htmlText_51F7344B_51C6_7FCE_41BD_E10C25E24EDA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></div>
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 2
+tour.name = Untitled 3
