@@ -41,17 +41,17 @@ panorama_5E137A0A_4DEB_AFC7_41C9_20EAE0C880C2.label = senjata3
 model_51FDF840_51C5_F73B_41C9_E810C21936AC.label = silver_meteor
 
 ### Video
-videolevel_746880AC_6672_504F_41C8_A1698A352C62.url = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_en.mp4
-videolevel_746880AC_6672_504F_41C8_A1698A352C62.posterURL = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_poster_en.jpg
+videolevel_774BD8AE_665C_7F21_41BC_4A14C6E7BE6D.url = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_en.mp4
+videolevel_774BD8AE_665C_7F21_41BC_4A14C6E7BE6D.posterURL = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_poster_en.jpg
 
 ### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_51F512D9_51DA_38CA_41C9_4E2ACCD0562D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_51F7344B_51C6_7FCE_41BD_E10C25E24EDA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></div>
-htmlText_51F6F2C4_51C7_FB3A_4182_C21DDB889158.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></div>
+htmlText_51F7344B_51C6_7FCE_41BD_E10C25E24EDA.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://beta.galeri-portal.oviatech.id/#/floorplan/room/1" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_51F6F2C4_51C7_FB3A_4182_C21DDB889158.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://beta.galeri-portal.oviatech.id/#/floorplan/room/1" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_51F512D9_51DA_38CA_41C9_4E2ACCD0562D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://beta.galeri-portal.oviatech.id/#/floorplan/room/1" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Tour
 
