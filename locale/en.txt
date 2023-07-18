@@ -3,10 +3,12 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_51F3A9B7_51DE_6946_41CC_71F4FA6FBDB5.url = http://dev.galeri-portal.oviatech.id/#/floorplan/detail/39
-PopupWebFrameBehaviour_51F37F0C_51DE_E94A_41A9_E25A97351A24.url = http://dev.galeri-portal.oviatech.id/#/floorplan/detail/39
-PopupWebFrameBehaviour_51F15D1B_51DA_294E_41C8_C4A6FC3A6C12.url = http://dev.galeri-portal.oviatech.id/#/floorplan/detail/39
-PopupWebFrameBehaviour_51F3C57A_51DE_19CF_41CB_D728630EA17D.url = http://dev.galeri-portal.oviatech.id/#/floorplan/detail/39
+PopupWebFrameBehaviour_721467D8_666E_BFC8_4191_CDCE92530A32.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detail/19
+PopupWebFrameBehaviour_51F37F0C_51DE_E94A_41A9_E25A97351A24.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detail/20
+PopupWebFrameBehaviour_51F3A9B7_51DE_6946_41CC_71F4FA6FBDB5.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detail/20
+PopupWebFrameBehaviour_51F15D1B_51DA_294E_41C8_C4A6FC3A6C12.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detail/20
+PopupWebFrameBehaviour_75818B4B_6673_D0C8_41AD_7B56F1877F1F.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detail/20
+PopupWebFrameBehaviour_51F3C57A_51DE_19CF_41CB_D728630EA17D.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detail/20
 
 ## Media
 
@@ -39,19 +41,17 @@ panorama_5E137A0A_4DEB_AFC7_41C9_20EAE0C880C2.label = senjata3
 model_51FDF840_51C5_F73B_41C9_E810C21936AC.label = silver_meteor
 
 ### Video
-videolevel_5203E8FC_523D_E8CA_41C5_956018FD3056.url = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_en.mp4
-videolevel_5203E8FC_523D_E8CA_41C5_956018FD3056.posterURL = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_poster_en.jpg
+videolevel_746880AC_6672_504F_41C8_A1698A352C62.url = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_en.mp4
+videolevel_746880AC_6672_504F_41C8_A1698A352C62.posterURL = media/video_52027C0E_523E_EF46_41CC_26C652E76F3A_poster_en.jpg
 
 ### Video Subtitles
 
 ## Popup
 
 ### Body
-htmlText_51FD6566_51CA_19C6_41A0_87F89942B046.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Phonolitic Scoria</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Kata scoria berasal dari bahasa Yunani "skoria" yang berarti karat; Scoria adalah batu vulkanik berwarna gelap yang sangat berbuih dan mungkin mengandung kristal (fenokristal) atau tidak. Biasanya berwarna gelap (umumnya cokelat tua, hitam, atau merah keunguan), dan memiliki komposisi batuan basal atau andesit. Scoria relatif ringan karena adanya vesikel berbentuk elipsoidal yang sangat banyak, tetapi berbeda dengan batu apung, semua scoria memiliki densitas yang lebih besar dari 1 dan tenggelam di air.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lubang-lubang atau vesikel terbentuk ketika gas yang terlarut dalam magma keluar dari larutan saat terjadi erupsi, menciptakan gelembung dalam batuan cair, beberapa di antaranya membeku saat batuan mendingin dan mengeras. Scoria dapat terbentuk sebagai bagian dari aliran lava, biasanya dekat permukaannya, atau sebagai fragmen ejekta (lapili, blok, dan bom), misalnya dalam erupsi Strombolian yang membentuk kerucut scoria dengan sisi curam. Sebagian besar scoria terdiri dari fragmen kaca dan mungkin mengandung fenokristal.</SPAN></DIV></BODY></HTML></div>
-htmlText_51FBE142_51CE_193E_41CD_F5EFA0C9141E.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">LUNA IN BRONZE</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">LUNA, sebuah karya seni yang dibuat oleh seniman Prancis Erol, secara eksklusif untuk Cassiom dan Aldin Art Space, menyoroti tekstur dan permukaan selenit menggunakan data dari Lunar Reconnaissance Orbiter. Reproduksi sempurna dari Bulan - dengan semua kawah, retakan, gunung, dan lautannya. Definisi teknis dari permukaan bola tersebut dihitung secara numerik, dengan data yang disediakan oleh NASA. Resolusi file ini adalah 50 juta titik, satu titik untuk setiap kilometer, dan bentuk-bentuk daratan diperbesar tiga kali lipat.</SPAN></DIV></BODY></HTML></div>
 htmlText_51F512D9_51DA_38CA_41C9_4E2ACCD0562D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></BODY></HTML></div>
-htmlText_51F6F2C4_51C7_FB3A_4182_C21DDB889158.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></div>
 htmlText_51F7344B_51C6_7FCE_41BD_E10C25E24EDA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></div>
+htmlText_51F6F2C4_51C7_FB3A_4182_C21DDB889158.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="http://beta.galeri-portal.oviatech.id/#/floorplan/room" STYLE="text-decoration:none; color:inherit;"><U>disini</U></A></SPAN></SPAN></DIV></div>
 
 ## Tour
 
