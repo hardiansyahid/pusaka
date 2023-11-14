@@ -1,40 +1,64 @@
 #: locale=en
 
+## Action
+
+### URL
+WebFrame_CD946C1C_CD13_6B77_41E9_61DAEF2EE68E.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detailItem/19
+WebFrame_CD928605_CD17_A751_41D9_A86A52F6548F.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detailItem/20
+WebFrame_CD92A65C_CD17_E7F7_41E2_73A06C4A97B0.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detailItem/20
+WebFrame_CD90E153_CD13_9DF1_41D3_1824F795FCF7.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detailItem/20
+WebFrame_CD92C762_CD17_A5D0_41AB_7329EF027DF7.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detailItem/20
+WebFrame_CD94ECBA_CD13_64B0_41D1_C1E9B9174ACB.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detailItem/21
+
 ## Media
 
 ### Title
-panorama_3E06D8D2_35EC_68E4_41C6_78D754F8C9E2.label = museum.001
-panorama_3BF0E9EC_35ED_E8BC_41BE_429E25E642BD.label = museum.002
-panorama_3972CC56_35ED_EFEF_41C9_7830CFA5CD9A.label = museum.003
-panorama_39718EAE_35ED_E8BF_41BF_FBAF72559C72.label = museum.004
-panorama_39713105_35ED_F96C_41B9_205DDCA78FAA.label = museum.005
-panorama_3970335F_35ED_F99D_41B8_9556F0378984.label = museum.006
-panorama_397185AC_35ED_F8BC_41B4_909FBF84A4D3.label = museum.007
-panorama_3971F805_35ED_F76D_41BF_CEC41926120C.label = museum.008
-panorama_3971AA6C_35ED_EBA3_41C5_D602B68A644B.label = museum.009
-panorama_3971ACCE_35ED_E8FC_41C6_59863EAC8C6D.label = museum.010
-panorama_3971BF1C_35ED_E963_4191_FC0E21562255.label = museum.011
-panorama_3971B174_35ED_D9A3_41CA_A33304CBD05A.label = museum.012
-panorama_397163CB_35ED_D8E4_41BE_386F9362E532.label = museum.013
-panorama_3971A62F_35ED_DBBD_41C4_6BAB35D43D11.label = museum.014
-panorama_3971987C_35ED_D7A3_41C2_A9EF5A8C2128.label = museum.015
-panorama_39718ADF_35ED_A89C_41BE_01562E874B43.label = museum.016
-panorama_369646EF_3956_B890_41B4_5A7C2D2CF1EC.label = museum.017
-panorama_3739B95C_3956_89B7_41BE_6FF0A8AA1891.label = museum.018
-panorama_373B6BFD_3956_8871_41C5_EFA022268A05.label = museum.019
-panorama_373DBE54_3956_8BB0_41C6_59ABDFB3E1DE.label = museum.020
-panorama_373C20A5_3956_9890_41C4_F3A139A3FEA4.label = museum.021
-panorama_373C7304_3956_9997_41B7_2E5A6A01F6F2.label = museum.022
-panorama_373CF55D_3956_99B0_41A3_9AA8BE375801.label = museum.023
-panorama_373CF808_3956_9790_41BA_4540047300CD.label = museum.024
-panorama_373CAACE_3956_8890_41C6_973E2C76BD36.label = museum.025
-panorama_373C9D15_3956_89B0_4197_51DC89008DB3.label = museum.026
-panorama_373B2F75_3956_8871_41C9_B4968571EFA9.label = museum.027
-panorama_373BE230_3956_7BF0_41BA_F28BF5EA8F62.label = museum.028
+panorama_C192B81D_CD0E_AB71_41E2_6D5D4B85F0A0.label = museum.001
+panorama_C7C1AC95_CD0E_AB70_41E3_85C96042F29D.label = museum.002
+panorama_C7B04EEE_CD0E_A4D3_41E5_305FCAC750ED.label = museum.003
+panorama_C7B07122_CD0E_9D50_41D3_86348191FABD.label = museum.004
+panorama_C7B343D0_CD0E_9CCF_41D7_74E0E2608E5B.label = museum.005
+panorama_C7B01689_CD0E_E751_4198_E2602BA2655A.label = museum.006
+panorama_C7B348F4_CD0E_ECB7_41CF_3BB67C1D8355.label = museum.007
+panorama_C7B38B3C_CD0E_EDB7_41BE_5A763E5F9564.label = museum.008
+panorama_C7B06DA1_CD0E_E551_41C1_6F8C25AE5AD1.label = museum.009
+panorama_C7B35FE9_CD0E_E4D1_41DB_1D5E41DB2DBE.label = museum.010
+panorama_C7B39211_CD0E_FF70_41B3_5812D5E97B90.label = museum.011
+panorama_C7B34467_CD0E_FBD0_41C1_25ACB4203F68.label = museum.012
+panorama_C7B3C6F4_CD0E_E4B0_41D3_88122AC11A4F.label = museum.013
+panorama_C7B38959_CD0E_EDF1_41D4_0E50F7F8BC16.label = museum.014
+panorama_C7B12BA1_CD0E_ED51_41E5_5DC00A58BEAA.label = museum.015
+panorama_C7B38E3C_CD0E_E7B7_41DF_2A374DC71F4E.label = museum.016
+panorama_C7B39086_CD0E_9B53_41C9_99EB2CA6F21D.label = museum.017
+panorama_C7B382CF_CD0E_9CD1_41C6_462DE780DC6E.label = museum.018
+panorama_C7B04567_CD0E_A5D0_41D1_DD78AFC28CBA.label = museum.019
+panorama_C7B058BA_CD0E_ACB3_41D0_0F715F968574.label = museum.020
+panorama_C7B04B30_CD0E_AD4F_41D8_8BCF30C8A7B8.label = museum.021
+panorama_C7B3AD99_CD0E_A571_41E9_0EC7EE2E639C.label = museum.022
+panorama_C7B04003_CD0E_BB51_41CC_0950619FEC26.label = museum.023
+panorama_C7B3A28F_CD0E_BF51_41BE_12B55C633D78.label = museum.024
+panorama_C7B06505_CD0E_A551_41E4_7F447005FF2F.label = museum.025
+panorama_C7B0576E_CD0E_A5D3_41DC_4163F7616EDA.label = museum.026
+panorama_C7B0CB58_CD0E_ADFF_41C5_036E2C5CE7BD.label = museum.027
+panorama_C7B3AE44_CD0E_A7D7_41C4_24CFC9049B1B.label = museum.028
+panorama_C7B02102_CD0E_9D53_41DB_C7B2A3B1DF59.label = museum.029
+
+## Popup
+
+### Body
+htmlText_CD92C762_CD17_A5D0_41D9_0ACF8EF38CB3.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CD928605_CD17_A751_41DB_9030670BB727.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CD92A65C_CD17_E7F7_41D4_8368A7CBA02A.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CD94ECB9_CD13_64B0_41BF_5019F811A450.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CD906EF3_CD13_64B1_41D6_7CAD82AA6453.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CD93FDD1_CD15_64F1_41D6_E236277103E0.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_CD879AF6_CDFD_ACB3_41E0_2BB64DEA920D.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://beta.galeri-portal.oviatech.id/#/floorplan/room/1" STYLE="text-decoration:none; color:inherit;">disini</A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_CD8743AC_CDFE_9D57_41C7_C3C97F2F77CC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://beta.galeri-portal.oviatech.id/#/floorplan/room/1" STYLE="text-decoration:none; color:inherit;">disini</A></SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_CD4048B1_CD72_ACB0_41D8_0B3B7C1FC387.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lihat koleksi lebih lengkap <SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://beta.galeri-portal.oviatech.id/#/floorplan/room/1" STYLE="text-decoration:none; color:inherit;">disini</A></SPAN></SPAN></DIV></BODY></HTML></div>
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 4
+tour.name = Untitled 5
