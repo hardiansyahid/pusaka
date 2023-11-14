@@ -10,6 +10,12 @@ WebFrame_CD90E153_CD13_9DF1_41D3_1824F795FCF7.url = https://beta.galeri-portal.o
 WebFrame_CD92C762_CD17_A5D0_41AB_7329EF027DF7.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detailItem/20
 WebFrame_CD94ECBA_CD13_64B0_41D1_C1E9B9174ACB.url = https://beta.galeri-portal.oviatech.id/#/floorplan/detailItem/21
 
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_6BE90C49_CD35_ABD1_41E6_75E6B0C5E5C8.toolTip = Keluar
+HotspotPanoramaOverlayArea_CD363345_CD1E_FDD1_41CB_859D615966CF.toolTip = Masuk
+
 ## Media
 
 ### Title
@@ -61,4 +67,38 @@ htmlText_CD4048B1_CD72_ACB0_41D8_0B3B7C1FC387.html = <div style="text-align:left
 ### Description
 
 ### Title
-tour.name = Untitled 5
+tour.name = new world v1
+
+## VR Menu
+
+### Text
+Menu_DEDB3FAF_CDBA_06B7_419D_1F69A734D85C.label = Media
+MenuItem_ECF21E10_CDAA_096A_41D4_9A7A4A1E22F2.label = museum.001
+MenuItem_ECF03E10_CDAA_096A_41E1_398769DCF41A.label = museum.002
+MenuItem_ECF1CE10_CDAA_096A_41DE_1A5D9A5EA1FC.label = museum.003
+MenuItem_ECF16E10_CDAA_096A_41CA_26CAF9B3AED6.label = museum.004
+MenuItem_ECF2FE10_CDAA_096A_41DF_6A48233FE903.label = museum.005
+MenuItem_ECF2BE10_CDAA_096A_41D8_F60FFA021166.label = museum.006
+MenuItem_ECF24E10_CDAA_096A_41DB_F20532FF083F.label = museum.007
+MenuItem_ECF3EE10_CDAA_096A_41DF_3E1DF7B5D3D7.label = museum.008
+MenuItem_ECF1EE10_CDAA_096A_41E9_1824100730C2.label = museum.009
+MenuItem_ECF18E10_CDAA_096A_41E2_B80E9C5D9052.label = museum.010
+MenuItem_ECF13E10_CDAA_096A_41E9_653849030CDB.label = museum.011
+MenuItem_ECF2DE10_CDAA_096A_41E4_0177912D2A55.label = museum.012
+MenuItem_ECF26E10_CDAA_096A_41CF_EB2D473BA9F7.label = museum.013
+MenuItem_ECF20E10_CDAA_096A_41C5_A39EF2763D6B.label = museum.014
+MenuItem_ECF02E10_CDAA_096A_41E2_147B80E3CE03.label = museum.015
+MenuItem_ECF1AE10_CDAA_096A_41E9_7810D958E145.label = museum.016
+MenuItem_ECF14E10_CDAA_096A_41E0_32672C390ACA.label = museum.017
+MenuItem_ECF2EE10_CDAA_096A_41D8_00C1E53BE269.label = museum.018
+MenuItem_ECF28E10_CDAA_096A_41E8_5EEFBACD6347.label = museum.019
+MenuItem_ECF22E10_CDAA_096A_41CB_5228F76E2A9E.label = museum.020
+MenuItem_ECF3DE10_CDAA_096A_41C6_1F2ED42D2A87.label = museum.021
+MenuItem_ECF1DE10_CDAA_096A_41DD_62FBD49B675E.label = museum.022
+MenuItem_ECF17E10_CDAA_096A_41E3_388E92959D38.label = museum.023
+MenuItem_ECF11E10_CDAA_096A_41E6_DB8177582D0A.label = museum.024
+MenuItem_ECF2CE10_CDAA_096A_41E0_4E212BE9FE6C.label = museum.025
+MenuItem_ECF25E10_CDAA_096A_41D8_5D4E3975BB63.label = museum.026
+MenuItem_ECF27E10_CDAA_096A_41A6_E65107368C69.label = museum.027
+MenuItem_ECF3FE10_CDAA_096A_41E9_6CA427121F40.label = museum.028
+MenuItem_ECF1FE10_CDAA_096A_41B2_AE02139C43BC.label = museum.029
